@@ -17,6 +17,10 @@ Root Mean Squared Error: 21.510511981814698
 
 
 
+
+
+
+
 **Polynomial Regression Model (4 Degrees):**
 
 <img width="436" alt="Screenshot 2024-01-09 at 1 20 57 AM" src="https://github.com/amoghu26/song-popularity-pred/assets/69988876/b2f8ac32-54f7-4e0b-a357-ecd7a34a519a">
@@ -32,6 +36,10 @@ Root Mean Squared Error: 35.151948343668906
 
 
 
+
+
+
+
 **Random Forest Regression Model:**
 
 <img width="434" alt="Screenshot 2024-01-09 at 1 20 43 AM" src="https://github.com/amoghu26/song-popularity-pred/assets/69988876/0fc20af3-b47e-4158-a9f6-1a80ba58df8e">
@@ -43,6 +51,10 @@ Mean Absolute Error: 11.306770604083823
 Mean Squared Error: 258.7561170532696
 
 Root Mean Squared Error: 16.08589808040787
+
+
+
+
 
 
 
