@@ -56,3 +56,5 @@ Mean Squared Error: 405.184091347732
 Root Mean Squared Error: 20.129185064173164
 
 
+# Results 
+As displayed by the results above, the random forest regression model has the greatest accuracy when it comes to predicting the popularity scores of the songs in the dataset. It boasts a mean absolute error of 11.307, which is over 4 lower than any other model! Additionally, its graph's line of best fit is much closer to the desired y = x line than any of the other models. So, we can conclude that the random forest regression model most accurately predicts song popularity values for this data set.
